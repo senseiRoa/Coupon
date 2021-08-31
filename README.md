@@ -24,9 +24,11 @@ The project is created with Spring Boot, Java 8, Maven and netbeans development.
 
 The service is deployed in an EC2-AWS instance in a virtual machine with Ubuntu server v20, which has docker and JAVA installed.
 
-The public IP is:18.222.150.7
-The DNS is: ec2-18-222-150-7.us-east-2.compute.amazonaws.com
-The port is :80
+*The public IP is:18.222.150.7
+
+*The DNS is: ec2-18-222-150-7.us-east-2.compute.amazonaws.com
+
+*The port is :80
 
 
 ## Deploy with spring boot
