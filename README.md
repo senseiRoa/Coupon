@@ -26,7 +26,7 @@ The service is deployed in an EC2-AWS instance in a virtual machine with Ubuntu 
 
 *The public IP is:18.222.150.7
 
-*The DNS is: ec2-18-222-150-7.us-east-2.compute.amazonaws.com
+*The DNS is: http://ec2-18-222-150-7.us-east-2.compute.amazonaws.com/
 
 *The port is :80
 
