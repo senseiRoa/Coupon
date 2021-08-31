@@ -1,0 +1,12 @@
+version: "3.3"
+services:
+    api:
+        container_name: apiService
+        build:
+            context: .
+            dockerfile: Dockerfile
+        restart: always
+        ports:
+            - "8080:8080"
+        
+    
